@@ -1,5 +1,5 @@
 # SQL-ODEV4
-Distinct, Count Operatörü 
+Distinct, Count Operatörü (Postgre SQL - pgAdmin tablosuna göre yapılmıştır.)
 ##
 1) SELECT DISTINCT replacement_cost FROM film ;
 2) SELECT COUNT(DISTINCT replacement_cost) FROM film ;
